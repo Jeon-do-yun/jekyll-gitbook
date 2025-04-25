@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Doyun's gitbook  
+longtitle:        Doyun's gitbook
+author:           Jeon Do Yun
+email:            j134224@kw.ac.kr
 description: >
-  Build Jekyll site with the GitBook style.
+  다양한 것을 포스팅합니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://Jeon-do-yun.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
